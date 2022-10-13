@@ -12,8 +12,25 @@
 
     <?php
 
+    $a = 1;
 
+    while ($a <= 5) {
+        echo "value $a <br>";
+        $b = 1;
+        while ($b <= 10) :
+            echo "value $b <br>";
+            $b++;
+        endwhile;
+        $a++;
+    }
 
+    do {
+        echo "hello $a";
+        //a++
+        //if (a==2){
+        // break;
+        // }
+    } while ($a >= 4)
 
     ?>
 
