@@ -1,2 +1,2 @@
-# Class-Work-Practice-3-Loops-Using-Php
-in this class practice i learned loops i already know loops but today we used in php..
+# Variable Scope
+The scope of the variable is the area within which the variable has been created. Based on this a variable can either have a local scope or a global scope or a static scope in PHP.
